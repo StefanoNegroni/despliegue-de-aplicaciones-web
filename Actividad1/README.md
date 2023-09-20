@@ -36,3 +36,10 @@ El protocolo IP se encuentra en la capa de Internet o capa de red, que acepta y 
 ## ¿Cuál es el significado de la siguiente respuesta de un servidor? HTTP/1.1 302 Found Location: http://www.example.com/test/index2.php
 
 Indica que una URL específica ha sido trasladada temporalmente a una nueva ubicación.
+
+
+# Actividad 6
+
+## Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google
+
+
