@@ -29,3 +29,10 @@ El puerto por defecto para las peticiones HTTP es el puerto 80.
 El protocolo HTTP se encuentra en la capa de aplicación del modelo TCP/IP.
 ## ¿Y los protocolos TCP, UDP, e IP?
 El protocolo IP se encuentra en la capa de Internet o capa de red, que acepta y transfiere paquetes para la red. Por otro lado, los protocolos TCP y UDP se encuentran en la capa de transporte.
+
+
+# Actividad 5
+
+## ¿Cuál es el significado de la siguiente respuesta de un servidor? HTTP/1.1 302 Found Location: http://www.example.com/test/index2.php
+
+Indica que una URL específica ha sido trasladada temporalmente a una nueva ubicación.
