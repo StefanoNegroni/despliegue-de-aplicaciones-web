@@ -16,3 +16,10 @@ README.md con la solución a los siguientes ejercicios.
 ![image](https://github.com/StefanoNegroni/despliegue-de-aplicaciones-web/assets/144775884/7823023e-3709-4282-8e2e-13885b1e2ca1)
 
 
+Actividad 3
+
+Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende
+cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los
+datos sensibles que se envían.
+
+
