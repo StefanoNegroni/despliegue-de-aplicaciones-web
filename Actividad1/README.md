@@ -20,6 +20,8 @@
 
 ![image](https://github.com/StefanoNegroni/despliegue-de-aplicaciones-web/assets/144775884/ab3da197-cce9-485b-9ade-275e196ca725)
 
+Una vez en la pagina de inicio de sesion de moodle, haces click derecho e inspeccionas la web, una vez dentro te vas a network y le das a index.php, te sale este resultado.
+
 
 # Actividad 4
 
@@ -44,3 +46,4 @@ Indica que una URL específica ha sido trasladada temporalmente a una nueva ubic
 
 ![image](https://github.com/StefanoNegroni/despliegue-de-aplicaciones-web/assets/144775884/3491c17e-f371-44f5-9416-763c2c5e1949)
 
+Abres el comando cmd con la combinacion de teclas "windows+r", una vez abierto el comando, haces ping a google.com y te sale este resultado.
